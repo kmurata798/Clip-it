@@ -1,4 +1,3 @@
 # Clip-it
 ## Planning:
-1. View [User Journeys] for Clip-It.
-2. View [Digital Mockups] for Clip-It
+SPRINT 1: [View Brainstorm, User Journeys, and Digital Mockup] (https://github.com/kmurata798/Clip-it/tree/master/templates)
