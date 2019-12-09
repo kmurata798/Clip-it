@@ -1,3 +1,3 @@
-# Clip-it
-## Planning:
-SPRINT 1: [View Brainstorm, User Journeys, and Digital Mockup](https://github.com/kmurata798/Clip-it/tree/master/static)
+# Clip-It PROTOTYPE
+## Details:
+Clip-It is a video game social media which syncs all of the different gaming platforms into a single hub for all gamers to connect through!
